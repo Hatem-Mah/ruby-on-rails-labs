@@ -1,0 +1,6 @@
+.DS_Store
+.ruby-lsp/
+._x9z.so
+**/lifetrack.log
+**/lifetrack_data.json
+**/lifetrack_dashboard.html
